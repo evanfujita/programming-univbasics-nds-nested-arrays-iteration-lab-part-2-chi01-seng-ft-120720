@@ -8,4 +8,5 @@ def find_min_in_nested_arrays(src)
     small_array << new_array.first
   count += 1  
 end
+small_array
 end
